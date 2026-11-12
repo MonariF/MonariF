@@ -37,7 +37,8 @@ A reproducible Python benchmark demonstrating statistical reasoning, logistic re
 A computational mathematics benchmark covering constrained optimization, SciPy, numerical convergence, feasibility verification and KKT conditions.
 
 [View Numerical Optimization Project](https://github.com/MonariF/AI-Numerical-Optimization-Benchmark)
-3. AI Probability and Statistical Inference Benchmark
+
+### 3. AI Probability and Statistical Inference Benchmark
 
 A reproducible Python benchmark covering binomial probability,
 exact hypothesis testing, confidence intervals, Monte Carlo
